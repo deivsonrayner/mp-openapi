@@ -7,6 +7,15 @@
     <feature>mpConfig-1.2</feature>
     <feature>mpRestClient-1.0</feature>
     <feature>mpOpenAPI-1.0</feature>
+    <feature>mpFaultTolerance</feature>
+    <feature>mpHealth</feature>
+    <feature>mpJwt</feature>
+    <feature>mpMetrics</feature>
+    <feature>mpRestClient-1.0</feature>
+    <feature>opentracing-1.0</feature>
+    <feature>apiDiscovery-1.0</feature>
+    <feature>openapi-3.0</feature>
+    <feature>mpConfig-1.2</feature>
   </featureManager>
 
   <httpEndpoint httpPort="9080" httpsPort="9443"
